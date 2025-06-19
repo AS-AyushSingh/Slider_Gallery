@@ -90,7 +90,7 @@ body{
 .content .name{
     font-size: 40px;
     text-transform: uppercase;
-    font-color: golden;
+    color: #FFD700;
     font-weight: bold;
     animation: animate 1s ease-in-out 1 forwards;
 }
@@ -98,7 +98,7 @@ body{
 .content .des{
     margin-top: 10px;
     margin-bottom: 20px;
-    font-color: silver;
+    color: #C0C0C0;
     font-size: large;
     font-weight: bold;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
