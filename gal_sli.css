@@ -100,7 +100,7 @@ body{
     font-size: large;
     font-weight: bold;
     animation: animate 1s ease-in-out 0.3s 1 forwards;
-    color: #000;
+    color: #C0C0C0;
 }
 
 .content button{
